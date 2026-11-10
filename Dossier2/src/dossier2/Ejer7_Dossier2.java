@@ -16,7 +16,7 @@ MAXIMO = 12;
 */
     public static void main(String[] args) {
        final int MAXIMO = 23;
-       MAXIMO = 12;
+       //MAXIMO = 12;
        //El IDE se queja de la línea 19 y no se ejecuta el programa
     }
     
